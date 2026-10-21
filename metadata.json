@@ -1,0 +1,6 @@
+{
+  "name": "Ruang Islam",
+  "description": "Website edukasi Islam modern dan interaktif: Belajar Islam, Memperkuat Iman. Panduan wudhu, tata cara dan bacaan sholat, doa harian, 25 nabi, malaikat, kalender Hijriah, fikih kelas XI, serta kuis 50 soal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
